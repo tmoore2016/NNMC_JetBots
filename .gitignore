@@ -5,7 +5,7 @@
 dataset*
 
 # Python Jupiter Notebook checkpoints
-.ipynb*
+.ipynb_*
 
 # VS Code
 
