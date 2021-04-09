@@ -4,6 +4,9 @@
 # Dataset Images
 dataset*
 
+# Trained path files
+*.pth
+
 # Python Jupiter Notebook checkpoints
 .ipynb_*
 
