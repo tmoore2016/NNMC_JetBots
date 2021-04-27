@@ -7,6 +7,9 @@ dataset*
 # Trained path files
 *.pth
 
+# Ignored Jupiter Notebooks
+add_xy_to_dataset.ipynb
+
 # Python Jupiter Notebook checkpoints
 .ipynb_*
 
